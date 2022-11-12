@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksandrVostrikov
 - 👀 I’m interested in С#
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Unity
 
 
 <!---
